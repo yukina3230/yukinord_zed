@@ -1,0 +1,7 @@
+id = "yukinord"
+name = "Yukinord"
+version = "0.0.1"
+schema_version = 1
+authors = ["Yukina"]
+description = ""
+repository = "https://github.com/your-name/my-zed-extension"
